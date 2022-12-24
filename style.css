@@ -39,7 +39,7 @@ body {
   width: 300px;
   height: 100vh;
   position: fixed;
-  background-color: rgb(255, 243, 243);
+  background-color: rgb(243, 144, 144);
   float: left;
   padding: 0px;
   font-size: 16px;
@@ -73,7 +73,7 @@ body {
 
   }
 .maindoc {
-  background-color: rgb(247, 244, 237);
+  background-color: rgb(198, 166, 90);
   height: 100%;
   margin-left: 100px;
   padding-left: 260px;
